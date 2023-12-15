@@ -1,2 +1,2 @@
 # UMC_5th
-UMC 5기 node.js
+UMC 5th node.js
